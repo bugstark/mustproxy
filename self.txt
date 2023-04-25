@@ -1,6 +1,6 @@
 payload:
   # > bito
   # - USER-AGENT,Bito*
-  - DOMAIN-KEYWORD,bito.co
-  - DOMAIN-SUFFIX,bito.co
-  - DOMAIN-SUFFIX,bito.ai
+  #- DOMAIN-KEYWORD,bito.co
+  #- DOMAIN-SUFFIX,bito.co
+  #- DOMAIN-SUFFIX,bito.ai
